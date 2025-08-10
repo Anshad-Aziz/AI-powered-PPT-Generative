@@ -39,7 +39,7 @@ This tool creates a well-structured PPT with:
 ## 📦 Installation
 1. **Clone the repository**
      ```bash
-    git clone https://github.com/yourusername/ai-pptx-generator.git
+    git clone https://github.com/Anshad-Aziz/AI-powered-PPT-Generative.git
     cd ai-pptx-generator
 2. **Create and activate a virtual environment**
       ```bash
