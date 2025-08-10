@@ -1,0 +1,6 @@
+ streamlit 
+ langchain 
+ python-pptx 
+ requests 
+ python-dotenv
+ groq
